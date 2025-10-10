@@ -1,0 +1,9 @@
+{
+   "banned" : false,
+   "id" : "",
+   "new_tokens" : null,
+   "old_tokens" : null,
+   "reason" : "Not found",
+   "should_destroy" : false,
+   "signature" : "eyJ2IjoyLCJub25jZSI6IkUzQTdCQjU0M0JEM0E3NDVENzVGRDE5NkJBQUQ0QTk3IiwidHMiOjE3NjAwNjU3ODgsImV4cCI6MTc2MDA2NTg0OCwiZGF0YSI6eyJiYW5uZWQiOmZhbHNlLCJyZWFzb24iOiJOb3QgZm91bmQiLCJvbGRfdG9rZW5zIjpudWxsLCJuZXdfdG9rZW5zIjpudWxsLCJzaG91bGRfZGVzdHJveSI6ZmFsc2UsImlkIjoiIn19.MbYgqeTUmle9nKRXvpKc96RNvjswIeCvYqCkSdPYmKWW5S65+RJtRMVNxWzp3leesNXumbny7Wx1XkO+8fsRAg=="
+}
