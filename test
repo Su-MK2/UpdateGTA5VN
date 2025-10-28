@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 28 Oct 2025 13:47:34 GMT
+Content-Type: application/json; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Encoding: gzip
+Content-Length: 720
+
+[{"error":false,"data":[{"id":19,"fullname":"ACMN","shortname":"ACMN","idnumber":"","summary":"<p dir=\"ltr\" style=\"text-align:left;\">M\u00f4n H\u1ecdc Qu\u1ea3n Tr\u1ecb M\u1ea1ng N\u00e2ng Cao<\/p>","summaryformat":1,"startdate":1599238800,"enddate":1630774800,"visible":true,"fullnamedisplay":"ACMN","viewurl":"https:\/\/lms.athena.edu.vn\/course\/view.php?id=19","courseimage":"https:\/\/lms.athena.edu.vn\/pluginfile.php\/801\/course\/overviewfiles\/khoa-hoc-quan-tri-he-thong-microsoft.jpg","progress":35,"hasprogress":true,"isfavourite":false,"hidden":false,"timeaccess":1761683542,"showshortname":false,"coursecategory":"Athena Coursers"},{"id":15,"fullname":"LPI-I","shortname":"LPI-I","idnumber":"","summary":"<p dir=\"ltr\" style=\"text-align:left;\">Linux Professional Institute I<br \/><\/p>","summaryformat":1,"startdate":1578416400,"enddate":0,"visible":true,"fullnamedisplay":"LPI-I","viewurl":"https:\/\/lms.athena.edu.vn\/course\/view.php?id=15","courseimage":"https:\/\/lms.athena.edu.vn\/pluginfile.php\/339\/course\/overviewfiles\/khoa-hoc-chuyen-gia-quan-tri-ma-nguon-mo-linux-master.jpg","progress":21,"hasprogress":true,"isfavourite":false,"hidden":false,"timeaccess":1761661571,"showshortname":false,"coursecategory":"Athena Coursers"},{"id":13,"fullname":"ACBN","shortname":"ACBN","idnumber":"","summary":"<p>Qu\u1ea3n tr\u1ecb m\u1ea1ng c\u01a1 b\u1ea3n -\u00a0<span style=\"font-size:.98rem;\">Athena Certified Basic Network<\/span><\/p>","summaryformat":1,"startdate":1577466000,"enddate":0,"visible":true,"fullnamedisplay":"ACBN","viewurl":"https:\/\/lms.athena.edu.vn\/course\/view.php?id=13","courseimage":"https:\/\/lms.athena.edu.vn\/pluginfile.php\/281\/course\/overviewfiles\/khoa-hoc-quan-tri-mang-co-ban.jpg","progress":85,"hasprogress":true,"isfavourite":false,"hidden":false,"timeaccess":1761160347,"showshortname":false,"coursecategory":"Athena Coursers"},{"id":16,"fullname":"CCNA","shortname":"CCNA","idnumber":"","summary":"<p dir=\"ltr\" style=\"text-align:left;\">Qu\u1ea3n Tr\u1ecb M\u1ea1ng Cisco<br \/><\/p>","summaryformat":1,"startdate":1578675600,"enddate":1610211600,"visible":true,"fullnamedisplay":"CCNA","viewurl":"https:\/\/lms.athena.edu.vn\/course\/view.php?id=16","courseimage":"https:\/\/lms.athena.edu.vn\/pluginfile.php\/424\/course\/overviewfiles\/khoa-hoc-quan-tri-mang-cisco-ccna.jpg","progress":0,"hasprogress":true,"isfavourite":false,"hidden":false,"timeaccess":1758291609,"showshortname":false,"coursecategory":"Athena Coursers"}]}]
