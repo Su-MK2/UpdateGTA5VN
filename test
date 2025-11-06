@@ -1,0 +1,11 @@
+{
+   "data" : {
+      "current_date" : "2025-11-06",
+      "has_voted_today" : false,
+      "identifier_preview" : "606a881a133c902a...",
+      "submission_id" : 33134,
+      "voted_submission_id" : 33134,
+      "voting_method" : "fingerprint"
+   },
+   "success" : false
+}
