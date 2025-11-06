@@ -1,10 +1,7 @@
 {
    "data" : {
-      "current_date" : "2025-11-06",
-      "has_voted_today" : false,
-      "identifier_preview" : "606a881a133c902c...",
-      "submission_id" : 42616,
-      "voted_submission_id" : null,
+      "message" : "Bình chọn thành công!",
+      "vote_count" : "189",
       "voting_method" : "fingerprint"
    },
    "success" : true
